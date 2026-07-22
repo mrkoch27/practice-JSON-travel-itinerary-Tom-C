@@ -1,0 +1,40 @@
+{
+    "Trip Name": "European Adventure",
+    "Contact":{
+        "name": "Thomas Cook",
+        "email": "mrkoch27@gmail.com",
+        "phone": "573-990-7662"
+    }
+    "Destinations": [
+        {
+            "location": "Madrid, Spain",
+            "arrivalDate": "September 11",
+            "departureDate" "September 13",
+            "activities": [
+                    {
+                        "title": "Visit the Golden Triangle of Art",
+                        "time": "10:00 AM"
+                    },
+                    {
+                        "title": "Visit Reina Sofia Museum",
+                        "time": "2:00 PM"
+                    }
+                ]
+               
+        },
+        {
+            "location": "Barcelona, Spain",
+            "arrivalDate": "September 13",
+            "departureDate": "September 15",
+            "activities": [
+                {
+                    "title": "Visit Sagrada Familia",
+                    "time": "10:00 AM"
+                },
+                {
+                    "title": "Visit Park Guell",
+                    "time": "2:00 PM"
+                }
+        }
+    ]
+}
