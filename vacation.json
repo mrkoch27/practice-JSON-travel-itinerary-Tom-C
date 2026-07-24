@@ -96,4 +96,44 @@
         }
     ]}
 
-}
+}{
+"tripName": "Summer Vacation Adventure",
+"person": {
+"name": "Brandy Alexander",
+"contact": {
+"email": "brandy.alexander@email.com",
+"phone": "314-783-1234"
+    }
+  },
+"destinations": [
+ {
+  "location": "Miami",
+  "arrivalDate": "2026-07-10",
+  "departureDate": "2026-07-13",
+  "activities": [
+  {
+   "title": "Relax at South Beach",
+    "time": "10:00 AM"
+    },
+    {
+    "title": "Visit Bayside Marketplace",
+    "time": "3:00 PM"
+    }
+    ]
+    },
+    {
+    "location": "Orlando",
+    "arrivalDate": "2026-07-13",
+    "departureDate": "2026-07-17",
+    "activities": [
+    {
+    "title": "Visit Walt Disney World",
+    "time": "9:00 AM"
+    },
+    {
+    "title": "Explore Disney Springs",
+    "time": "6:00 PM"
+    }
+    ]
+    },
+    {
