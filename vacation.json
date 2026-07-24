@@ -38,3 +38,62 @@
         }
     ]
 }
+
+
+{
+    {"tripName": "Guys Trip"},
+    {"traveller": {
+        {"name": "Caleb Hickey"},
+        {"emailAddress": "caleb.hickey@gmail.com"},
+        {"phoneNumber": "(816) 148-0360"}
+        }
+    },
+    {"locations": [
+        {
+            {"location": "Versailles, KY"},
+            {"arrivalDate": "8/31/26"},
+            {"departureDate": "9/2/26"},
+            {"activities": [
+                {"activity":
+                    {"title": "Bourbon Distillery Tour"},
+                    {"startTime": "10:00AM"}
+                },
+                {"activity":
+                    {"title": "Fantasy Football Draft"},
+                    {"startTime": "1:00PM"}
+                }
+            ]}
+        },
+        {
+            {"location": "Yellowstone National Park"},
+            {"arrivalDate": "9/20/26"},
+            {"departureDate": "9/27/26"},
+            {"activities": [
+                {"activity":
+                    {"title": "Fly Fishing"},
+                    {"startTime": "8:00AM"}
+                },
+                {"activity":
+                    {"title": "Lodge Beers"},
+                    {"startTime": "8:00PM"}
+                }
+            ]}
+        },
+        {
+            {"location": "Boseman, MT"},
+            {"arrivalDate": "10/1/26"},
+            {"departureDate": "10/7/26"},
+            {"activities": [
+                {"activity":
+                    {"title": "Elk Hunting"},
+                    {"startTime": "6:00AM"}
+                },
+                {"activity":
+                    {"title": "Campfire Beers"},
+                    {"startTime": "9:00PM"}
+                }
+            ]}
+        }
+    ]}
+
+}
